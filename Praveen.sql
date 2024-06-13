@@ -197,3 +197,5 @@ INSERT INTO Students  VALUES ('Kavisha', 'Parikh');
 select * from Students;
 
 
+-- foreign key
+-- foreign key
